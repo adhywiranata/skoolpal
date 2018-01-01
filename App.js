@@ -27,7 +27,7 @@ export default class App extends Component<{}> {
     return (
       <GradientViewAtom style={styles.container}>
         <ViewAtom />
-        <TextAtom style={{ textAlign: 'center', marginTop: 30, fontWeight: '200', fontSize: 48, color: 'white' }}>
+        <TextAtom style={{ textAlign: 'center', marginTop: 30, fontWeight: '200', fontSize: 60, color: 'white' }}>
           Skoolpal
         </TextAtom>
         <ButtonMolecule>Sign In</ButtonMolecule>

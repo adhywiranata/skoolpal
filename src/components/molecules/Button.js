@@ -7,7 +7,7 @@ import {
 const defaultButtonStyle = {
   backgroundColor: '#FFFFFF',
   borderRadius: 10,
-  padding: 10,
+  padding: 20,
   margin: 10,
 }
 
